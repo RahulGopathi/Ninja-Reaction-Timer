@@ -1,4 +1,4 @@
-# t
+# Ninja Reaction Timer
 
 ## Project setup
 ```
